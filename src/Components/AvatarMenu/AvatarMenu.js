@@ -57,7 +57,7 @@ const AvatarMenu = (props) => {
 
   const logout = () => {
     history.push({
-      pathname: "/gh-pages/",
+      pathname: "/spark_up/",
     });
   };
 
