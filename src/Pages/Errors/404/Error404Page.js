@@ -40,7 +40,7 @@ const Error404Page = (props) => {
         variant="contained"
         color="primary"
         className={classes.button}
-        onClick={() => history.push("/home")}
+        onClick={() => history.push("/spark_up/home")}
       >
         Back to Home
       </Button>
