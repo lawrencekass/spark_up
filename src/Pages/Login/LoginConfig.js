@@ -3,7 +3,7 @@ import Login from "./Login";
 export const LoginConfig = {
   routes: [
     {
-      path: "/spark_up/",
+      path: "/gh-pages/",
       exact: true,
       component: Login,
     },

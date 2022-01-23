@@ -3,7 +3,7 @@ import DefaultLoans from "./DefaultLoans";
 export const DefaultLoansConfig = {
   routes: [
     {
-      path: "/spark_up/default_borrowers",
+      path: "/gh-pages/default_borrowers",
       exact: true,
       component: DefaultLoans,
     },
