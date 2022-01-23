@@ -34,7 +34,7 @@ const routeConfigs = [
 const routes = [
   ...routeConfigs,
   {
-    component: () => <Redirect to="/pages/errors/error-404" />,
+    component: () => <Redirect to="/spark_up/pages/errors/error-404" />,
   },
 ];
 

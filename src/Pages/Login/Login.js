@@ -69,7 +69,7 @@ export default function Login(props) {
         if (userCred) {
           setLoading(false);
           history.push({
-            pathname: "/spark_up/home",
+            pathname: "/home",
           });
         }
       })
