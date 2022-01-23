@@ -3,7 +3,7 @@ import Dashboard from "./Dashboard";
 export const DashboardConfig = {
   routes: [
     {
-      path: "/home",
+      path: "https://lawrencekass.github.io/spark_up/home",
       exact: true,
       component: Dashboard,
     },

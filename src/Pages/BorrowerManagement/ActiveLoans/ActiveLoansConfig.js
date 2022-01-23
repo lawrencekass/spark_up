@@ -3,7 +3,7 @@ import ActiveLoans from "./ActiveLoans";
 export const ActiveLoansConfig = {
   routes: [
     {
-      path: "/active_loans",
+      path: "https://lawrencekass.github.io/spark_up/active_loans",
       exact: true,
       component: ActiveLoans,
     },

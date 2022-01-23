@@ -3,7 +3,7 @@ import LoanApplication from "./LoanApplication";
 export const LoanApplicationConfig = {
   routes: [
     {
-      path: "/loan_application",
+      path: "https://lawrencekass.github.io/spark_up/loan_application",
       exact: true,
       component: LoanApplication,
     },

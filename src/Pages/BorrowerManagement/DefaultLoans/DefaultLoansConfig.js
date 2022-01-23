@@ -3,7 +3,7 @@ import DefaultLoans from "./DefaultLoans";
 export const DefaultLoansConfig = {
   routes: [
     {
-      path: "/default_borrowers",
+      path: "https://lawrencekass.github.io/spark_up/default_borrowers",
       exact: true,
       component: DefaultLoans,
     },
